@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
 
@@ -7,7 +7,7 @@ public class MouvementBalle : MonoBehaviour {
 	public  GameObject text;
 	Vector3 mMouseDownPos;
 	Vector3 mMouseUpPos;
-	public float speed = 100.1f;
+	public float speed = 50.1f;
 
 
 	/*
